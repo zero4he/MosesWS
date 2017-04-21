@@ -1,12 +1,12 @@
-##Install Flask
+## Install Flask
 
 ```pip install Flask```
 
-##Run 
+## Run 
 
 ```python MosesWS.py```
 
-##Test
+## Test
 
 ```curl  http://127.0.0.1:5000/translate?text=je%20suis%20un%20homme```
 
